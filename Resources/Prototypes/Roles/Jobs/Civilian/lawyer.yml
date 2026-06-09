@@ -10,6 +10,7 @@
   startingGear: LawyerGear
   icon: "JobIconLawyer"
   supervisors: job-supervisors-cj # DeltaV - Change supervisor to chief justice
+  whitelisted: true # WS14
   access:
   - Justice # DeltaV - Justice dept, replaces Service
   - Lawyer

@@ -6,6 +6,7 @@
   startingGear: PsychologistGear
   icon: "JobIconPsychologist"
   supervisors: job-supervisors-cmo
+  whitelisted: true # WS14
   access:
   - Medical
   - Maintenance

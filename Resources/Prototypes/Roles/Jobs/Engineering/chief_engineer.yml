@@ -19,6 +19,7 @@
   requireAdminNotify: true # DeltaV
   joinNotifyCrew: true # DeltaV
   supervisors: job-supervisors-captain
+  whitelisted: true # WS14
   canBeAntag: false
   access:
   - Maintenance

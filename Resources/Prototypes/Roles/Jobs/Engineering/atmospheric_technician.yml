@@ -11,6 +11,7 @@
   startingGear: AtmosphericTechnicianGear
   icon: "JobIconAtmosphericTechnician"
   supervisors: job-supervisors-ce
+  whitelisted: true # WS14
   access:
   - Maintenance
   - Engineering

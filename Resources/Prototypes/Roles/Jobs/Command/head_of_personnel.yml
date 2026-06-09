@@ -27,6 +27,7 @@
   joinNotifyCrew: true # DeltaV
   supervisors: job-supervisors-captain
   canBeAntag: false
+  whitelisted: true # WS14
   access:
   - Command
   - HeadOfPersonnel
