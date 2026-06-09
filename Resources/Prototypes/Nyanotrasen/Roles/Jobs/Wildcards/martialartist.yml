@@ -11,6 +11,7 @@
   supervisors: job-supervisors-hop
   setPreference: true
 #  whitelistRequired: true
+  whitelisted: true #WS14
   access:
   - Maintenance
   - Theatre # DeltaV - Add Theatre access

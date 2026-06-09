@@ -15,6 +15,7 @@
   supervisors: job-supervisors-rd
   antagAdvantage: 2 # DeltaV - Psionics, Has an objective item
   canBeAntag: true # DeltaV - Mantis is no longer a Detective
+  whitelisted: true #WS14
   access:
   - Research
   - Maintenance
