@@ -10,6 +10,7 @@
       department: Medical
       time: 6h
   canBeAntag: false
+  whitelisted: true # WS14
   icon: JobIconMedicalBorg
   supervisors: job-supervisors-cmo
   jobEntity: PlayerBorgMedical

@@ -10,6 +10,7 @@
       department: Security
       time: 20h
   canBeAntag: false
+  whitelisted: true # WS14
   icon: JobIconSecurityBorg
   supervisors: job-supervisors-everyone
   jobEntity: PlayerBorgSecurity
