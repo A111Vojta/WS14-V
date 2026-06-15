@@ -5,7 +5,7 @@
   minPlayers: 0
   maxPlayers: 5
   stations:
-    Chibi:
+    Checkpoint:
       stationProto: StandardNanotrasenStation
       components:
         - type: StationNameSetup
