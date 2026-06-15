@@ -1,0 +1,28 @@
+- type: gameMap
+  id: Checkpoint
+  mapName: 'Checkpoint'
+  mapPath: /Maps/checkpoint.yml
+  minPlayers: 0
+  maxPlayers: 5
+  stations:
+    Chibi:
+      stationProto: StandardNanotrasenStation
+      components:
+        - type: StationNameSetup
+          mapNameTemplate: '{0} Checkpoint Station {1}'
+          nameGenerator:
+            !type:NanotrasenNameGenerator
+            prefixCreator: 'SC'
+        - type: StationJobs
+          availableJobs:
+            HeadOfPersonnel: [ 1, 1 ]
+          #engineering
+            StationEngineer: [ 1, 1 ]
+          #medical
+            MedicalDoctor: [ 1, 1 ]
+          #security
+            HeadOfSecurity: [ 1, 1 ]
+            SecurityOfficer: [ 2, 1 ]
+            Warden: [ 1, 1 ]
+          #civilian
+            Passenger: [ -1, -1 ]
