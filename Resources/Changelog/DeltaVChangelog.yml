@@ -1,47 +1,4 @@
 ﻿Entries:
-- author: Nesoryo, Nikovnik, kotobdev
-  changes:
-  - message: Added alternative typing indicators for whispering, emoting, using the
-      radio, and (L)OOC-ing!
-    type: Add
-  id: 1908
-  time: '2025-12-04T16:59:08.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4679
-- author: verybigman311
-  changes:
-  - message: Every single wieldable gun now has wielded sprites.
-    type: Add
-  - message: Wieldable guns that previously utilized upstream sprites, have been updated
-      with Delta-V sprites.
-    type: Add
-  - message: Mark-1 series rifles are now wieldable.
-    type: Tweak
-  - message: Touched up a few miscolored cocktail sprites.
-    type: Tweak
-  - message: Practice security weapons now have orange tips for safety purposes.
-    type: Tweak
-  - message: Practice laser carbines are now blue.
-    type: Tweak
-  - message: Practice disablers not having inhand sprites.
-    type: Fix
-  id: 1909
-  time: '2025-12-04T18:42:20.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4851
-- author: verybigman311
-  changes:
-  - message: Frag Grenades now have shrapnel!
-    type: Add
-  id: 1910
-  time: '2025-12-04T22:28:59.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4856
-- author: kontakt, ShepardToTheStars
-  changes:
-  - message: The ninja's spider clan charge can now be placed on walls and windows
-      again.
-    type: Fix
-  id: 1911
-  time: '2025-12-05T01:44:35.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4861
 - author: ShepardToTheStars
   changes:
   - message: The nukie agent's visor can finally see silicon health.
@@ -4382,4 +4339,50 @@
   id: 2408
   time: '2026-06-15T15:10:00.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/6031
+- author: StarboundSolaris
+  changes:
+  - message: Pitbulls and their genetically modified subspecies, Ventbulls, have been
+      re introduced to the Delta Sector!
+    type: Add
+  - message: NanoTrasen is now deploying Ventbulls into station ventilation systems
+      as a method of quick and inexpensive pest control! Don't be surprised if they
+      crawl out of a vent while chasing a horde of mice!
+    type: Add
+  - message: Departments may sometimes come equipped with a unique pitbull!
+    type: Add
+  - message: Pitbulls no longer maul couriers and felinids!
+    type: Tweak
+  - message: Pitbulls are now more tolerant to being pet!
+    type: Tweak
+  - message: Pitbulls now come with an even greater variety of ridiculous names!
+    type: Tweak
+  id: 2409
+  time: '2026-06-15T16:02:07.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5915
+- author: rebe83
+  changes:
+  - message: Security ponchos now only help with temperature. It's just plastic after
+      all.
+    type: Tweak
+  - message: Gorlex ponchos now only offer modest protection. They just don't make
+      them like they used to.
+    type: Tweak
+  id: 2410
+  time: '2026-06-15T15:51:39.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6001
+- author: keekee38
+  changes:
+  - message: NT no longer stores guns with loaded chambers
+    type: Tweak
+  id: 2411
+  time: '2026-06-15T16:46:35.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5819
+- author: CarolCuchara
+  changes:
+  - message: Zombified crew and other entities like Laika will drop headsets which
+      are in their pockets. No more listening to survivor comms!
+    type: Fix
+  id: 2412
+  time: '2026-06-15T17:27:01.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6030
 Order: 1
