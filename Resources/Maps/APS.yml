@@ -27,7 +27,7 @@ entities:
   - uid: 1
     components:
     - type: MetaData
-      name: APS-14
+      name: AuxPowerStation
     - type: Transform
       pos: -0.609375,-0.5625
       parent: 8
