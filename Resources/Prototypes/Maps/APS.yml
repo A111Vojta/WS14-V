@@ -1,5 +1,5 @@
 - type: gameMap
-  id: Checkpoint
+  id: AuxPowerStation
   mapName: 'AuxPowerStation'
   mapPath: /Maps/APS.yml
   minPlayers: 1
