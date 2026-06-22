@@ -1,0 +1,29 @@
+- type: gameMap
+  id: Checkpoint
+  mapName: 'AuxPowerStation'
+  mapPath: /Maps/APS.yml
+  minPlayers: 1
+  maxPlayers: 10
+  stations:
+    Checkpoint:
+      stationProto: StandardNanotrasenStation
+      components:
+        - type: StationNameSetup
+          mapNameTemplate: '{0} Aux Power Station {1}'
+          nameGenerator:
+            !type:NanotrasenNameGenerator
+            prefixCreator: 'PS'
+        - type: StationJobs
+          availableJobs:
+            ChiefEngineer: [ 1, 1 ]
+            StationAi: [ 1, 1 ]
+          #engineering
+            StationEngineer: [ 1, 3 ]
+            AtmosphericTechnician: [ 1, 1 ]
+          #medical
+            MedicalDoctor: [ 1, 1 ]
+          #security
+            SecurityOfficer: [ 1, 1 ]
+            Warden: [ 1, 1 ]
+          #civilian
+            Passenger: [ -1, -1 ]
