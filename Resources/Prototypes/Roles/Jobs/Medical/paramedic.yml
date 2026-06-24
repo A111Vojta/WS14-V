@@ -11,6 +11,7 @@
   startingGear: ParamedicGear
   icon: "JobIconParamedic"
   supervisors: job-supervisors-cmo
+  whitelisted: true # WS14
   access:
   - Medical
   - Maintenance

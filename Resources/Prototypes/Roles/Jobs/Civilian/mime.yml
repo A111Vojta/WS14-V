@@ -9,6 +9,7 @@
   startingGear: MimeGear
   icon: "JobIconMime"
   supervisors: job-supervisors-hop
+  whitelisted: true # WS14
   access:
   - Theatre
   - Maintenance

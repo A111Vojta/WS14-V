@@ -6,6 +6,7 @@
   startingGear: MusicianGear
   icon: "JobIconMusician"
   supervisors: job-supervisors-hop # DeltaV - was job-supervisors-hire
+  whitelisted: true # WS14
   access:
   - Maintenance # TODO Remove maint access for all gimmick jobs once access work is completed
   - Theatre

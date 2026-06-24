@@ -6,6 +6,7 @@
   startingGear: LibrarianGear
   icon: "JobIconLibrarian"
   supervisors: job-supervisors-rd # DeltaV - Moved to epistemics department
+  whitelisted: true # WS14
   access:
   - Service
   - Maintenance

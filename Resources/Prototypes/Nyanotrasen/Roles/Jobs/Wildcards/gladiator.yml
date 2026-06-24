@@ -8,6 +8,7 @@
   canBeAntag: false
   icon: "JobIconGladiator"
   supervisors: job-supervisors-security
+  whitelisted: true # WS14
   setPreference: true
 #  whitelistRequired: true
   requirements:

@@ -13,6 +13,7 @@
   startingGear: ForensicMantisGear
   icon: "JobIconForensicMantis"
   supervisors: job-supervisors-rd
+  whitelisted: true # WS14
   antagAdvantage: 2 # DeltaV - Psionics, Has an objective item
   canBeAntag: true # DeltaV - Mantis is no longer a Detective
   access:

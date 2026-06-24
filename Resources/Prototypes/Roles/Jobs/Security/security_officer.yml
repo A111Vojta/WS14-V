@@ -11,6 +11,7 @@
   icon: "JobIconSecurityOfficer"
   supervisors: job-supervisors-hos
   canBeAntag: false
+  whitelisted: true # WS14
   access:
   - Security
   #- Brig # DeltaV - Removed brig access

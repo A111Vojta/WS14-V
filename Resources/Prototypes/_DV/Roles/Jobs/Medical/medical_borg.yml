@@ -12,5 +12,6 @@
   canBeAntag: false
   icon: JobIconMedicalBorg
   supervisors: job-supervisors-cmo
+  whitelisted: true # WS14
   jobEntity: PlayerBorgMedical
   applyTraits: false
