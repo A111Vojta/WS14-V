@@ -1,83 +1,4 @@
 ﻿Entries:
-- author: EmberAstra
-  changes:
-  - message: forensic pads used to scan gloves now also show the fiber's ID.
-    type: Tweak
-  id: 1954
-  time: '2025-12-12T19:21:56.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4932
-- author: TheShuEd, Spielern
-  changes:
-  - message: The Christmas Anomaly is back in rotation!
-    type: Add
-  id: 1955
-  time: '2025-12-12T22:23:47.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4957
-- author: AirlineFood001
-  changes:
-  - message: Adjusted the armor values on the Advanced Plate Carrier to make it all
-      around stronger.
-    type: Tweak
-  id: 1956
-  time: '2025-12-12T22:40:34.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4942
-- author: Velcroboy
-  changes:
-  - message: Reconfigurated the TEG tentacles
-    type: Tweak
-  id: 1957
-  time: '2025-12-13T19:18:53.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4965
-- author: kotobdev
-  changes:
-  - message: The Redshirt trait has been added, which causes you to immediately die
-      instead of going crit.
-    type: Add
-  id: 1958
-  time: '2025-12-16T01:34:03.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4974
-- author: Stxcking
-  changes:
-  - message: Courier, Boxer, Gladiator, and Prisoner have the option to choose glasses
-      in their loadout.
-    type: Tweak
-  - message: Surgeons get medical eyewear options in loadout.
-    type: Tweak
-  id: 1959
-  time: '2025-12-16T05:04:42.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4977
-- author: Proxysseia
-  changes:
-  - message: replaced vestigial entity mentions with employee mentions. You can no
-      longer harass vent spiders.
-    type: Tweak
-  id: 1960
-  time: '2025-12-16T13:07:37.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4947
-- author: MantasDab360
-  changes:
-  - message: Revenant's crayon is now infinite once again.
-    type: Fix
-  id: 1961
-  time: '2025-12-16T13:15:10.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4987
-- author: Stxcking
-  changes:
-  - message: Corpsman's inventory on spawn has been cleaned up. Most medical gear
-      has been moved to the corpsman. locker.
-    type: Tweak
-  - message: Corpsman uniforms are now available in the SecDrobe.
-    type: Tweak
-  id: 1962
-  time: '2025-12-16T13:24:57.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4979
-- author: marigauge
-  changes:
-  - message: IPCs now leave behind steel fibers when touching stuff.
-    type: Tweak
-  id: 1963
-  time: '2025-12-16T13:41:33.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4968
 - author: marigauge
   changes:
   - message: Cybernetic eyes are no longer edible.
@@ -4411,4 +4332,89 @@
   id: 2454
   time: '2026-06-23T22:34:44.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/6078
+- author: Stxcking
+  changes:
+  - message: AAC tablet buttons have colors again!
+    type: Tweak
+  id: 2455
+  time: '2026-06-24T13:08:20.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5567
+- author: ShepardToTheStars
+  changes:
+  - message: Stealth borg modules are now working as intended and no longer provide
+      infinite duration cloaking.
+    type: Fix
+  id: 2456
+  time: '2026-06-24T13:15:02.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6085
+- author: ShepardToTheStars
+  changes:
+  - message: You can now change common radio channel colors to the colors of your
+      choice in the Radio tab in the Options menu!
+    type: Add
+  id: 2457
+  time: '2026-06-24T22:02:59.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6101
+- author: ManuDemoen
+  changes:
+  - message: Fixed certain entities from not metabolizing alcohol
+    type: Fix
+  id: 2458
+  time: '2026-06-25T02:28:27.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6104
+- author: Tmanzxd
+  changes:
+  - message: Removed the Surgeon time requirement for Chief Medical Officer, since
+      surgery is once again a week away.
+    type: Remove
+  id: 2459
+  time: '2026-06-25T13:10:38.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6112
+- author: rebe83
+  changes:
+  - message: Washing machines now can fit larger items inside, such as felinids, rodentia,
+      or even a china lake. (China Lake not included)
+    type: Tweak
+  id: 2460
+  time: '2026-06-25T14:07:13.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6086
+- author: sowelipililimute
+  changes:
+  - message: The station AI can now send and receive faxes.
+    type: Add
+  id: 2461
+  time: '2026-06-25T15:27:50.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6064
+- author: ManuDemoen
+  changes:
+  - message: The nachos recipe has changed! Cut them from taco shells and then add
+      chili or cheese for variants.
+    type: Tweak
+  id: 2462
+  time: '2026-06-25T15:37:34.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6099
+- author: wesk
+  changes:
+  - message: Synthetics can now use borg emotes!
+    type: Add
+  - message: Synthetics now has an option of being susceptible to Ion Storms.
+    type: Add
+  - message: Synthetics can now be purely mechanical! (cosmetical function only; you
+      spark when damaged.)
+    type: Add
+  id: 2463
+  time: '2026-06-25T16:17:27.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6090
+- author: sowelipililimute
+  changes:
+  - message: Suit sensors now report their location, even while in space
+    type: Add
+  - message: Crew monitoring computers now have a radar UI when you're off-station
+    type: Add
+  - message: Due to suit sensors now working in space, salvage no longer needs deathrattles
+      for recovery, hence, they have been removed.
+    type: Remove
+  id: 2464
+  time: '2026-06-25T17:59:50.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6054
 Order: 1
