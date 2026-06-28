@@ -1,25 +1,4 @@
 ﻿Entries:
-- author: marigauge
-  changes:
-  - message: Cybernetic eyes are no longer edible.
-    type: Fix
-  id: 1964
-  time: '2025-12-16T15:08:42.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4967
-- author: ShepardToTheStars
-  changes:
-  - message: Brains are no longer edible.
-    type: Fix
-  id: 1965
-  time: '2025-12-16T15:23:50.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4992
-- author: marigauge
-  changes:
-  - message: Ifrit requires 4 hours of Epistemics now.
-    type: Tweak
-  id: 1966
-  time: '2025-12-16T17:15:21.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4964
 - author: AveriV2
   changes:
   - message: Festive lights are now longer and thus fit on neck and outer clothing
@@ -4417,4 +4396,26 @@
   id: 2464
   time: '2026-06-25T17:59:50.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/6054
+- author: wesk
+  changes:
+  - message: Fixed synthetics from giving everyone borg emotes on round-start.
+    type: Fix
+  id: 2465
+  time: '2026-06-26T17:23:37.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6125
+- author: Vapetastic-Gaming
+  changes:
+  - message: Harpy movement speed now has the 10% buff, as this was a bug and wasnt
+      present. Moths and Harpies now have equal Low-Gravity speed.
+    type: Tweak
+  id: 2466
+  time: '2026-06-27T20:18:07.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6131
+- author: Vapetastic-Gaming
+  changes:
+  - message: Removed morphotypes
+    type: Remove
+  id: 2467
+  time: '2026-06-28T00:38:42.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6134
 Order: 1
