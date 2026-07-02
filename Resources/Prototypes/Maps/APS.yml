@@ -1,0 +1,34 @@
+- type: gameMap
+  id: APS-14
+  mapName: APS-14
+  mapPath: /Maps/APS.yml
+  maxRandomOffset: 0
+  randomRotation: false
+  minPlayers: 1
+  maxPlayers: 5
+  stations:
+    APS-14:
+      stationProto: StandardNanotrasenStation
+      components:
+      - type: StationNameSetup
+        mapNameTemplate: '{0} Auxiliary Power Station {1}'
+        nameGenerator:
+          !type:NanotrasenNameGenerator
+          prefixCreator: 'PGS'
+      - type: StationEmergencyShuttle
+        emergencyShuttlePath: /Maps/_DV/Shuttles/Evac/ntes_vertex.yml
+      - type: StationJobs
+        availableJobs:
+          StationAi: [ 1, 1 ]
+        #engineering
+          ChiefEngineer: [ 1, 1 ]
+          AtmosphericTechnician: [ 1, 1 ]
+          StationEngineer: [ 2, 2 ]
+          TechnicalAssistant: [ 1, 1 ]
+        #medical
+          MedicalDoctor: [ 1, 1 ]
+        #security
+          Warden: [ 1, 1 ]
+          SecurityOfficer: [ 1, 1 ]
+        #civilian
+          Passenger: [ -1, -1 ]
