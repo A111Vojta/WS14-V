@@ -1,116 +1,4 @@
 ﻿Entries:
-- author: Toby222
-  changes:
-  - message: The grinder no longer produces infinite resources
-    type: Fix
-  id: 1996
-  time: '2025-12-30T17:39:44.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/5080
-- author: dge21
-  changes:
-  - message: TEST MERGE - locked weapon crates can be smashed open without it's contents
-      acidifying again
-    type: Tweak
-  id: 1997
-  time: '2025-12-31T18:22:24.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/5050
-- author: MantasDab360
-  changes:
-  - message: The LO, MG, archivist and assistant plushies now have the correct DeltaV
-      job title
-    type: Tweak
-  id: 1998
-  time: '2025-12-31T18:27:34.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/5088
-- author: Halo3moth
-  changes:
-  - message: The Warden's energy shotgun has regained its self-charging ability once
-      again.
-    type: Tweak
-  id: 1999
-  time: '2025-12-31T18:33:04.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/5070
-- author: Dorragon
-  changes:
-  - message: Vent xenonids are now more likely to be of higher tiers
-    type: Tweak
-  id: 2000
-  time: '2025-12-31T18:36:52.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/5008
-- author: EmberAstra
-  changes:
-  - message: Fixed the exposed harpy wings in salvage's hardsuits.
-    type: Fix
-  id: 2001
-  time: '2025-12-31T18:37:19.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/5032
-- author: SubspaceEmber
-  changes:
-  - message: Added vox specific sprites for all security hardsuits, elite ERT hardsuits,
-      and the mystagouge hardsuit.
-    type: Add
-  id: 2002
-  time: '2025-12-31T18:37:38.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/5086
-- author: MantasDab360
-  changes:
-  - message: Cyborgs and Xenoborgs can now do a rare scream.
-    type: Tweak
-  id: 2003
-  time: '2025-12-31T18:38:16.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/5035
-- author: verybigman311
-  changes:
-  - message: Frag rounds for the China Lake are now kinder to explosion-resistant
-      hardsuits.
-    type: Tweak
-  id: 2004
-  time: '2025-12-31T19:03:56.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/5002
-- author: Coryler
-  changes:
-  - message: Add Blood Red Super Synth for Juke Ops
-    type: Add
-  id: 2005
-  time: '2025-12-31T20:11:28.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/5019
-- author: Apachit0
-  changes:
-  - message: Ported Starlight's Improvised Crafting of Various Things
-    type: Add
-  id: 2006
-  time: '2025-12-31T20:08:48.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4984
-- author: SirWarock
-  changes:
-  - message: Jetpacks now automatically turn on when leaving a grid, if you have toggled
-      them on!
-    type: Tweak
-  id: 2007
-  time: '2025-12-31T20:18:49.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/4990
-- author: BunglesnortBoss
-  changes:
-  - message: GalPol has funded NT's R&D team to make a detective module for cyborgs!
-    type: Add
-  - message: Added Security Cyborg PDA. Available to Sec Borgs round start in their
-      mods.
-    type: Add
-  - message: New NT Security Cyborgs can take a bit more hits! Increased health from
-      80 to 100. Finally a good egg.
-    type: Tweak
-  - message: New NT Security Cyborgs can fit a extra module!
-    type: Tweak
-  id: 2008
-  time: '2025-12-31T21:53:13.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/5005
-- author: ShepardToTheStars
-  changes:
-  - message: Cryox no longer works on the dead.
-    type: Fix
-  id: 2009
-  time: '2026-01-01T21:15:19.0000000+00:00'
-  url: https://github.com/DeltaV-Station/Delta-v/pull/5096
 - author: Stop-Signs
   changes:
   - message: Fixed sharp katana's being unable to fit into katana sheaths.
@@ -4286,4 +4174,141 @@
   id: 2496
   time: '2026-07-02T00:36:05.0000000+00:00'
   url: https://github.com/DeltaV-Station/Delta-v/pull/6175
+- author: JohhnJJohn, Cepelinas1, DustScoundrel
+  changes:
+  - message: 'Goob port: Station Reports have been added to the round end summary!
+      Internal Affairs Agents can document their inspection results or other agent
+      activities on special papers for all crew to see post-shift.'
+    type: Add
+  id: 2497
+  time: '2026-07-02T10:28:29.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/5997
+- author: sowelipililimute
+  changes:
+  - message: Ion laws now use the DeltaV format again.
+    type: Fix
+  id: 2498
+  time: '2026-07-02T12:34:13.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6188
+- author: Stxcking
+  changes:
+  - message: Syndicate implanters looks filled again!
+    type: Fix
+  id: 2499
+  time: '2026-07-02T12:38:01.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6191
+- author: CarolCuchara
+  changes:
+  - message: Rejuvenating a Colossus or Space Dragon will no longer crash the server!
+    type: Fix
+  - message: Reduced Colossus and Space Dragon blood amount to 400!
+    type: Tweak
+  id: 2500
+  time: '2026-07-02T16:32:00.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6047
+- author: weskified, ShepardToTheStars
+  changes:
+  - message: Fixed synthetic emotes for real this time.
+    type: Fix
+  - message: Non-synthetic characters can no longer make silicon noises.
+    type: Fix
+  id: 2501
+  time: '2026-07-02T17:10:34.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6136
+- author: sowelipililimute
+  changes:
+  - message: Skias can now ventcrawl.
+    type: Tweak
+  - message: Skias and Rat Kings prefer to spawn over vents.
+    type: Tweak
+  - message: Vent crawling now takes 0.5s and harder to interrupt.
+    type: Tweak
+  - message: Vent crawling now gives you a small pocket of air from the room you're
+      in if you enter unsafe pipes, such as scrubbers.
+    type: Tweak
+  id: 2502
+  time: '2026-07-02T23:59:20.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6179
+- author: pixelkingliam
+  changes:
+  - message: Two new lever actions rifles. The L93 and the SKL93
+    type: Add
+  - message: Cowboy crate. Costs 7600$ and contains 2 L93's, 2 Inspectors, 2 Cowbow
+      Hats, 4 boxes of ammo
+    type: Add
+  - message: The SKL93 can be purchased from the Syndicate Uplink, comes with a cowboy
+      hat and a spare box
+    type: Add
+  id: 2503
+  time: '2026-07-03T01:18:58.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6146
+- author: wesk
+  changes:
+  - message: Fixed spawncharacter command from not including character traits to the
+      spawned character.
+    type: Fix
+  id: 2504
+  time: '2026-07-03T01:33:17.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6124
+- author: BriBrooo
+  changes:
+  - message: Added the pharmacologist clothing
+    type: Add
+  - message: Added chemist's stamp (can be found in the chemical locker)
+    type: Add
+  - message: Added a prescription folder to the chemists' and psychologist's lockers
+    type: Add
+  - message: Modified the chemist's tie icon
+    type: Tweak
+  id: 2505
+  time: '2026-07-03T14:24:57.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6178
+- author: Stxcking
+  changes:
+  - message: FunkyChems now properly heal all brutes types if they should instead
+      of just healing blunt damage.
+    type: Fix
+  - message: FunkyChems now properly heal all air loss types if they should instead
+      of just healing asphyxiation damage.
+    type: Fix
+  - message: Skia now properly heals all brute types instead of only healing blunt
+      damage while in the dark.
+    type: Fix
+  id: 2506
+  time: '2026-07-03T14:42:09.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6196
+- author: Coryler
+  changes:
+  - message: RE Techdisk names
+    type: Fix
+  id: 2507
+  time: '2026-07-03T15:54:43.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6203
+- author: einknusprigestoast
+  changes:
+  - message: Added SRT Black and Epsilon spawners (Deathsquad replacement) and added
+      specialised equipment for them, including a new drug called Amnestizine (the
+      name says it all)
+    type: Add
+  - message: Removed DeathSquad
+    type: Remove
+  id: 2508
+  time: '2026-07-04T04:54:21.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6102
+- author: EmberAstra
+  changes:
+  - message: Tiny space raptors have infested the station! The Allulalo are here!
+    type: Add
+  - message: Small creatures can now be properly carried with just one hand.
+    type: Fix
+  id: 2509
+  time: '2026-07-04T07:28:32.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6172
+- author: Coryler
+  changes:
+  - message: MMI Incompatible Trait works again.
+    type: Fix
+  id: 2510
+  time: '2026-07-04T12:47:02.0000000+00:00'
+  url: https://github.com/DeltaV-Station/Delta-v/pull/6206
 Order: 1
